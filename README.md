@@ -68,7 +68,7 @@ Boa sorte!
 
 🔋 **Versionamento e Deploy**
 - [Git](https://git-scm.com)
-- [Vercel](https://vercel.com/)
+- [GitHub Pages](https://pages.github.com/)
 
 <br>
 
