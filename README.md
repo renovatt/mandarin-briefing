@@ -56,7 +56,22 @@ Boa sorte!
 #
 ![Web 2](./public/mobile-1.png)
 
-<br>
+
+#
+
+### O projeto foi testado por mim usando um outro projeto meu que é usado para enviar emails, [WillCode-Contact](https://github.com/renovatt/willcode-contact.git) que faz parte do meu [Portfólio](https://portfolio-renovatt.vercel.app/),  então eu mesmo fiz os envios para o Gmail e Outlook para ter certeza de que esta sendo renderizado corretamente. Eu também criei um outro template atualizado, usando os links diretos das imagens, então você não precisa dos arquivos locais.
+
+### Abaixo estão as imagens relacionadas:
+
+### WillCode-Contact
+![Web 2](./public/contact.png)
+
+### Gmail
+![Web 2](./public/gmail.png)
+
+### Outlook
+![Web 2](./public/outlook.png)
+
 
 ## 🛠️ Tecnologias
 
@@ -68,7 +83,7 @@ Boa sorte!
 
 🔋 **Versionamento e Deploy**
 - [Git](https://git-scm.com)
-- [GitHub Pages](https://pages.github.com/)
+- [Github Pages](https://pages.github.com/)
 
 <br>
 
